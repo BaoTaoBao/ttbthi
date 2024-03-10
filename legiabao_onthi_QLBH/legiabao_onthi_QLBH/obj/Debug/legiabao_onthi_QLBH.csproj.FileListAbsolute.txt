@@ -1,0 +1,11 @@
+C:\Users\Admin\Music\ontapthithuchanhnghe\LEGIABAO_ONTHITHUCHANH\legiabao_onthi_QLBH\legiabao_onthi_QLBH\obj\Debug\legiabao_onthi_QLBH.csproj.AssemblyReference.cache
+C:\Users\Admin\Music\ontapthithuchanhnghe\LEGIABAO_ONTHITHUCHANH\legiabao_onthi_QLBH\legiabao_onthi_QLBH\obj\Debug\legiabao_onthi_QLBH.Form1.resources
+C:\Users\Admin\Music\ontapthithuchanhnghe\LEGIABAO_ONTHITHUCHANH\legiabao_onthi_QLBH\legiabao_onthi_QLBH\obj\Debug\legiabao_onthi_QLBH.Properties.Resources.resources
+C:\Users\Admin\Music\ontapthithuchanhnghe\LEGIABAO_ONTHITHUCHANH\legiabao_onthi_QLBH\legiabao_onthi_QLBH\obj\Debug\legiabao_onthi_QLBH.csproj.GenerateResource.cache
+C:\Users\Admin\Music\ontapthithuchanhnghe\LEGIABAO_ONTHITHUCHANH\legiabao_onthi_QLBH\legiabao_onthi_QLBH\obj\Debug\legiabao_onthi_QLBH.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Music\ontapthithuchanhnghe\LEGIABAO_ONTHITHUCHANH\legiabao_onthi_QLBH\legiabao_onthi_QLBH\bin\Debug\legiabao_onthi_QLBH.exe.config
+C:\Users\Admin\Music\ontapthithuchanhnghe\LEGIABAO_ONTHITHUCHANH\legiabao_onthi_QLBH\legiabao_onthi_QLBH\bin\Debug\legiabao_onthi_QLBH.exe
+C:\Users\Admin\Music\ontapthithuchanhnghe\LEGIABAO_ONTHITHUCHANH\legiabao_onthi_QLBH\legiabao_onthi_QLBH\bin\Debug\legiabao_onthi_QLBH.pdb
+C:\Users\Admin\Music\ontapthithuchanhnghe\LEGIABAO_ONTHITHUCHANH\legiabao_onthi_QLBH\legiabao_onthi_QLBH\obj\Debug\legiabao_onthi_QLBH.exe
+C:\Users\Admin\Music\ontapthithuchanhnghe\LEGIABAO_ONTHITHUCHANH\legiabao_onthi_QLBH\legiabao_onthi_QLBH\obj\Debug\legiabao_onthi_QLBH.pdb
+C:\Users\Admin\Music\ontapthithuchanhnghe\LEGIABAO_ONTHITHUCHANH\legiabao_onthi_QLBH\legiabao_onthi_QLBH\obj\Debug\legiabao_onthi_QLBH.FormNhapXuatHangHoa.resources
